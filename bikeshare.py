@@ -10,7 +10,8 @@ MONTH_DATA = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
 DAY_DATA = ['all', 'monday', 'tuesday',
     'wednesday', 'friday', 'saturday', 'sunday']
 
-
+print ("you will start the program")
+print("lets go")
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
